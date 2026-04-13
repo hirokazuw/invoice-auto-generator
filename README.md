@@ -4,6 +4,8 @@
 Excel VBA で動作する請求書の一括自動生成ツールです。
 明細入力シートに請求データを入力するだけで、請求先ごとに .xlsx ファイルを自動出力します。
 
+![システム図](images/system_diagram.png)
+
 ## 必要環境
 - Microsoft Excel 2016以降
 - Microsoft Word 2016以降
